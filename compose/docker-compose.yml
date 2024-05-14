@@ -2,7 +2,7 @@ version: "3.8"
 services:
   express_starter:
     container_name: express_starter
-    image: itbeeazy/express-starter:latest
+    image: pfaust2022/express-starter:latest
     restart: always
     environment:
       - PORT=3030
