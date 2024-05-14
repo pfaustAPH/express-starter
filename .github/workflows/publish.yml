@@ -30,4 +30,4 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          tags: pfaustAPH/express-starter:latest
+          tags: pfaust2022/express-starter:latest
